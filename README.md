@@ -44,4 +44,4 @@ Key markets: 📈 Stocks, 💱 Forex, 💰 Crypto.
 
 ## 📅 Project Timeline
 
-This project follows a structured 14-day roadmap — covering core ML/NLP pipelines, GenAI integration, visualization, and cloud deployment. (See full breakdown in `/docs/project_timeline.md`)
+This project follows a structured 14-day roadmap — covering core ML/NLP pipelines, GenAI Integration, visualization, and cloud deployment. (See full breakdown in `/docs/project_timeline.md`)
