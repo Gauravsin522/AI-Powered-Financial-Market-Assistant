@@ -14,7 +14,7 @@ Key markets: 📈 Stocks, 💱 Forex, 💰 Crypto.
 
 ## 🧱 System Architecture
 
-![System Architecture](./assets/ai_financial_assistant_architecture.jpeg)
+![System Architecture](D:\Project\AI-Powered Financial Market Assistant\assets\ai_financial_assistant_architecture.jpg)
 
 ---
 
