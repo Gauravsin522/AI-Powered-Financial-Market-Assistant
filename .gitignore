@@ -1,1 +1,14 @@
 .env
+# Secrets
+data/api_keys.yaml
+
+# Data
+data/raw/*
+!data/raw/.gitkeep
+
+# Python
+*.pyc
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
